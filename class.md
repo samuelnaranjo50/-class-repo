@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
-
+Samuel
+Colombia
+Meta Front-End course 
